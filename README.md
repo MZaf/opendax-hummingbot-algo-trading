@@ -2,7 +2,7 @@ Liquiddex is a non-custodial Gateway app to Algo trading, to connect to Hummingb
 
 [Liquiddex](http://www.liquiddex.io/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Algo Trading Gateway App](https://github.com/openware/meta/raw/main/images/github_opendax.png)
+![Algo Trading Gateway App](https://github.com/MZaf/opendax-hummingbot-algo-trading/blob/main/public/Hummingbot-gateway-app.jpg)
 
 ## Getting Started
 
