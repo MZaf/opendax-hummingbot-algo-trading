@@ -1,16 +1,17 @@
-Liquiddex is a non-custodial Gateway app to Algo trading, to connect to Hummingbot and other Exchanges 
+Liquiddex is a non-custodial Gateway app to Algo trading, to connect to Hummingbot and other Exchanges.
 
 [Liquiddex](http://www.liquiddex.io/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
 
 ![Algo Trading Gateway App](https://github.com/openware/meta/raw/main/images/github_opendax.png)
 
 ## Getting Started
 
-First, Clone github repo
+Clone github repo
+```
+git clone https://github.com/MZaf/opendax-hummingbot-algo-trading.git
+```
 
-cd liquiddex
+cd opendax-hummingbot-algo-trading
 
 Run
 ```
@@ -18,10 +19,10 @@ npm install
 ```
 OR
 ```
-Yarn 
+yarn 
 ```
 
-run the development server:
+Run the development server:
 
 ```bash
 npm run dev
