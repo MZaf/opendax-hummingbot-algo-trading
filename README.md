@@ -1,6 +1,6 @@
 Liquiddex is a non-custodial Gateway app to Algo trading, to connect to Hummingbot and other Exchanges.
 
-[Liquiddex](http://www.liquiddex.io/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[Liquiddex](https://www.liquiddex.io/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![Algo Trading Gateway App](https://github.com/MZaf/opendax-hummingbot-algo-trading/blob/main/public/Hummingbot-gateway-app.jpg)
 
@@ -34,9 +34,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hbot](http://localhost:3000/api/hbot). This endpoint can be added/edited in `pages/api/hbot.js`.
+TODO: [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/*](https://www.liquiddex.io). This endpoint can be added/edited in `pages/api/`.
 
-TODO: Login [API route](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hbot](http://localhost:3000/api/auth/email). This endpoint can be added/edited in `pages/api/hbot.js`.
+TODO: Hummingbot [API route](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hbot](https://www.liquiddex.io). This endpoint can be added/edited in `pages/api/hbot.js`.
 
 
 ## Deploy on DigitalOcean
