@@ -1,2 +1,48 @@
-# opendax-hummingbot-algo-trading
-Node.js  Next.js middleware  Gateway API app to connect to Hummingbot Algo Trading, Auto Trade on Multiple exchanges via CCXT, OpenDAX. and Deployment to AWS, GCP, . Development
+Liquiddex is a non-custodial Gateway app to Algo trading, to connect to Hummingbot and other Exchanges 
+
+[Liquiddex](http://www.liquiddex.io/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
+
+![Algo Trading Gateway App](https://github.com/openware/meta/raw/main/images/github_opendax.png)
+
+## Getting Started
+
+First, Clone github repo
+
+cd liquiddex
+
+Run
+```
+npm install
+```
+OR
+```
+Yarn 
+```
+
+run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hbot](http://localhost:3000/api/hbot). This endpoint can be added/edited in `pages/api/hbot.js`.
+
+TODO: Login [API route](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hbot](http://localhost:3000/api/auth/email). This endpoint can be added/edited in `pages/api/hbot.js`.
+
+
+## Deploy on DigitalOcean
+
+TODO:
+Add Hummingbot Service for each user running on DigitalOcean micro cluster. 
+
+## Develop Gateway app using Streamlit
+TODO:
+Develop Gateway app using streamlit - a Python based framework 
