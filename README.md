@@ -50,4 +50,4 @@ Add Hummingbot Service for each user running on DigitalOcean micro cluster.
 
 ## Develop Gateway app using Streamlit
 TODO:
-Develop Gateway app using streamlit - a Python based framework 
+Develop Gateway app using [Streamlit](https://github.com/streamlit/streamlit) - a Python based framework 
